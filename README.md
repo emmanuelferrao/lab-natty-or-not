@@ -23,16 +23,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Make it é um projeto com o foco em auxiliar usuários com necessidades de uma tradução de alguma língua de forma rápida e fácil e apresentação em vídeo utilizando avatares.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e HeyGen
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Após um processo criativo a ideia veio em pensar em problemas que estudantes possam ter durante o processo de aprendizagem como falta de aptidão para falar em público e apresentações com slides/vídeos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Estudantes com algum fobia social teriam auxilio em uma forma mais tranquila de realizar suas apresentações.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
